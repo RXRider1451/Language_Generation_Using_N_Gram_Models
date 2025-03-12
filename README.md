@@ -1,2 +1,2 @@
-# Language_Generation_Using_N_Gram_Models
-NLP university project which explores the difference between varying N-Gram models.
+# Description
+NLP university project which explores the difference between various N-Gram models using different N, across different corpus.
